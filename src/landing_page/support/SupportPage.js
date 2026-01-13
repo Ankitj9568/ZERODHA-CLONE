@@ -4,7 +4,7 @@ import Hero from './Hero';
 import CreateTicket from './CreateTicket';
 
 import Navbar from '../Navbar';
-import
+import Footer from '../Footer';
 
 function SupportPage() {
     return ( 
